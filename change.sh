@@ -1,0 +1,1 @@
+sed -i 's/old_str/new_str/' `find . -name config -type f`
